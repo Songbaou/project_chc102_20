@@ -1,2 +1,4 @@
 #!/bin/bash
-#First Git to GitHub
+#First Git GitHub
+#update
+ping 1.1.1.1
